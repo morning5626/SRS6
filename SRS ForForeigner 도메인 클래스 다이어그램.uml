@@ -530,7 +530,7 @@
 <XPD:ATTR name="Left" type="integer">1044</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">788</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">108</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">121</XPD:ATTR>
 <XPD:REF name="Model">E7+AC0TpSkSfxyoSaOXtggAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="rjfPnA2mV0e2mkhRTNhGjgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="n/HIQdI+C02PTLOeREmZqgAA">
@@ -1910,7 +1910,7 @@
 <XPD:ATTR name="Left" type="integer">904</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">792</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">95</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">108</XPD:ATTR>
 <XPD:REF name="Model">mFKOMZNPlECN8Ct+Wij7MgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="Wk2y1IE/h0SfAgyRF/rygQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="9lgZpcbDt0GN/+TQh2wARQAA">
@@ -2749,7 +2749,7 @@
 <XPD:ATTR name="Left" type="integer">468</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">440</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">108</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">121</XPD:ATTR>
 <XPD:REF name="Model">E7+AC0TpSkSfxyoSaOXtggAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="dDlYEJ1NrUGW23zy1t2OMgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="Qk04bcC+nE6VNNny8C+I6AAA">
@@ -3205,7 +3205,7 @@
 <XPD:ATTR name="Left" type="integer">316</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">434</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">95</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">108</XPD:ATTR>
 <XPD:REF name="Model">mFKOMZNPlECN8Ct+Wij7MgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="6VYgJhsI6ky2cNtskBgizwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="+Sjc5zwaxkGAeYqXVc8FngAA">
@@ -5242,8 +5242,12 @@
 <XPD:REF name="ClientDependencies[0]">pVhL6rm9c062i2N3rhcQlQAA</XPD:REF>
 <XPD:REF name="ClientDependencies[1]">z2YY3ZNsTEiQx/9NdT34HQAA</XPD:REF>
 <XPD:REF name="ClientDependencies[2]">oIbRRNizYkuAr3cKn6qNUwAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="wo8mu09kvk6ai+25iVyXEQAA">
+<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="uUS2SmYYwEGDSRTMKpzYKQAA">
+<XPD:ATTR name="Name" type="string">신고하기</XPD:ATTR>
+<XPD:REF name="Owner">E7+AC0TpSkSfxyoSaOXtggAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="wo8mu09kvk6ai+25iVyXEQAA">
 <XPD:ATTR name="Name" type="string">처리</XPD:ATTR>
 <XPD:REF name="Owner">E7+AC0TpSkSfxyoSaOXtggAA</XPD:REF>
 </XPD:OBJ>
@@ -6250,8 +6254,12 @@
 <XPD:REF name="ClientDependencies[0]">IEKZEQfk5EqgnULyrUi15gAA</XPD:REF>
 <XPD:REF name="ClientDependencies[1]">de6GfuFe+EeGGd9LH4O7xgAA</XPD:REF>
 <XPD:REF name="ClientDependencies[2]">IlnZVWDzOEGJ7MTFfICL/wAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="+hCv+qZDL0ibLyn0cQjV8wAA">
+<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
+<XPD:OBJ name="Operations[0]" type="UMLOperation" guid="S5DCN6mP3EixScFJzrr3+QAA">
+<XPD:ATTR name="Name" type="string">등록</XPD:ATTR>
+<XPD:REF name="Owner">mFKOMZNPlECN8Ct+Wij7MgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="+hCv+qZDL0ibLyn0cQjV8wAA">
 <XPD:ATTR name="Name" type="string">취소</XPD:ATTR>
 <XPD:REF name="Owner">mFKOMZNPlECN8Ct+Wij7MgAA</XPD:REF>
 </XPD:OBJ>
